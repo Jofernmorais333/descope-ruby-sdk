@@ -3,7 +3,7 @@
   "private": true,
   "proxy": "http://127.0.0.1:3000",
   "dependencies": {
-    "@descope/react-sdk": "^2.0.15",
+    "@descope/react-sdk": "^2.25.7",
     "@hotwired/stimulus": "^3.2.2",
     "@hotwired/turbo-rails": "^8.0.4",
     "@popperjs/core": "^2.11.8",
